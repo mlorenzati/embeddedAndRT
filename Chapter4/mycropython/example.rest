@@ -1,0 +1,15 @@
+### Turn on off lead
+### Json payload
+### { "ledRed": "on" }
+GET http://192.168.1.123/api/temperature
+
+
+### Get temo
+POST http://192.168.1.123/api/control-led
+Content-Type: application/json
+
+{
+    "ledRed": true,
+    "ledGreen": false,
+    "ledBlue": true
+}
