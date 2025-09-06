@@ -19,5 +19,5 @@ cmake ..
 make -j 4
 ```
 
-For more information check [https://github.com/raspberrypi/pico-examples/tree/master/freertos](Raspberry pico examples FreeRtos)
+For more information check [Raspberry pico examples FreeRtos](https://github.com/raspberrypi/pico-examples/tree/master/freertos)
 
